@@ -1,0 +1,14 @@
+{
+  "name": "cinema_db",
+  "version": "1.0.0",
+  "description": "Cinema data storage ",
+  "main": "cinema_db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
